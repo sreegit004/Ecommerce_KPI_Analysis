@@ -107,6 +107,7 @@ git clone [https://github.com/your-username/Starbucks-KPI-Analysis.git](https://
 
 ---
 
-📫 **Connect with Me:** LinkedIn: https://www.linkedin.com/in/sreechakraborty/ | Mail: sree.onlyofficials.009@gmail.com
+📫 **Connect with Me:** 
+LinkedIn: https://www.linkedin.com/in/sreechakraborty/ | Mail: sree.onlyofficials.009@gmail.com
 
 ```
